@@ -1,6 +1,6 @@
 ## Mr. Phuong Phally
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://avatars.githubusercontent.com/u/8773927?v=4)
 
 You can use the [editor on GitHub](https://github.com/phuongphally/phuongphally.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
