@@ -35,7 +35,7 @@ Teuk Laak I, Khan Toul Kok, Phnom Penh
 
 
 # PROGRAMMING SKILLS
-  To became profession software engineering I learn and working with the following programming: 
+  To became profession software engineering I learn and working with the following programming and database: 
 
 ## Project Management SKILLS
   * Jira
