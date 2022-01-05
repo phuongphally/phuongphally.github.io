@@ -109,6 +109,28 @@ Teuk Laak I, Khan Toul Kok, Phnom Penh
   * **01/01/2012 – 01/12/2013** Internship DEVELOPER – CIEDC
 
 
+
+# Finish Project 
+  * Systems Monitoring
+  * Taxi Booking
+  * Room Booking
+  * Ticket Booking
+  * Purchase Ordering 
+  * POS
+  * Stock Controlling 
+  * Core Banking 
+  * E-Commerce 
+  * Book Reader App
+  * Video E-Learning
+  * Auction App
+  * Party App 
+  * Music App
+
+
+# Other Project 
+
+
+
 ## Header 2
 
 > This is a blockquote following a header.
