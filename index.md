@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <dt>Born</dt>
 <dd>1991</dd>
 <dt>Birthplace</dt>
-<dd>KAMPONG SPUE province, Cambodia</dd>
+<dd>Sombok kreil village, Krang Check Commune, Udongk district, kampongspue province, Cambodia</dd>
 <dt>Nationality</dt>
 <dd>Khmer</dd>
 </dl>
