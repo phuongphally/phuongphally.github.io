@@ -22,6 +22,11 @@ Teuk Laak I, Khan Toul Kok, Phnom Penh
 
 
 # PROGRAMMING SKILLS
+## Project Management SKILLS
+  * Jira
+  * Agile/Scrum
+
+## Programming Language
   * Java programing 
   * Kotlin 
   * PHP Language
@@ -34,12 +39,12 @@ Teuk Laak I, Khan Toul Kok, Phnom Penh
   * CSS
   * JavaScript
 
-# MOBILE SDK SKILLS
+## MOBILE SDK SKILLS
   * Android
   * IOS
   * Flutter
   * React Native
-
+  
 ## Header 2
 
 > This is a blockquote following a header.
