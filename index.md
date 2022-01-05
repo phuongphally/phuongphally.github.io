@@ -11,7 +11,17 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me
-This is Mr. Phuong Phally from KAMPONG SPUE province, Cambodia. was born in 1991. 
+
+<dl>
+<dt>Name</dt>
+<dd>Mr. Phuong Phally ( ភួង ផល្លី)</dd>
+<dt>Born</dt>
+<dd>1991</dd>
+<dt>Birthplace</dt>
+<dd>KAMPONG SPUE province, Cambodia</dd>
+<dt>Nationality</dt>
+<dd>Khmer</dd>
+</dl>
 
 
 # EDUCATION AND TRAINING
