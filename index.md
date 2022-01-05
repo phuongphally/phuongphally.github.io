@@ -11,7 +11,14 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me
-I'm from KAMPONGSPUE provice, Cambodia. In 2014 graduate a bachelor of science in information technology in PHNOM PENH.
+This is Mr. Phuong Phally from KAMPONG SPUE province, Cambodia. was born in 1991. 
+
+
+# EDUCATION AND TRAINING
+  * In 02/01/2010 to 02/01/2014 graduate a bachelor of science in information technology at Asia Euro University 826, kammpuch Krum Blvd
+Teuk Laak I, Khan Toul Kok, Phnom Penh
+  * In 01/04/2014 basic and advance course of software expert training at Korea Software HRD Center, 12 St 323, Phnom Penh.
+
 
 ## Header 2
 
