@@ -92,6 +92,23 @@ Teuk Laak I, Khan Toul Kok, Phnom Penh
   * Gradle
   * Node
   
+
+# WORK EXPERIENCE
+  * **01/09/2021 – Current** Application Manager – CBC Credit Bureau Cambodia.
+
+  * **01/02/2021 – 31/08/2021** SOFTWARE ENGINEERING MANAGER – REAN TVER ACADEMY CO., LTD
+
+  * **01/06/2020 – 31/01/2021** SENIOR CORE BANKING – SHINHAN CAMBODIA
+
+  * **03/03/2017 – 31/05/2020** SENIOR CORE DEVELOPER – IG FINTECH (MBANQ)
+
+  * **01/05/2015 – 28/02/2017** TEAM LEADER – YKP3
+
+  * **01/01/2015 – 30/04/2015** KOREA SOFTWARE INNOVATION GLOBAL NETWORK (KOSIGN INVESTMENT CO., LTD.)
+
+  * **01/01/2012 – 01/12/2013** Internship DEVELOPER – CIEDC
+
+
 ## Header 2
 
 > This is a blockquote following a header.
