@@ -22,9 +22,24 @@ Teuk Laak I, Khan Toul Kok, Phnom Penh
 
 
 # PROGRAMMING SKILLS
+  To became profession software engineering there are lots of technical skill I learn and working with.
+
 ## Project Management SKILLS
   * Jira
   * Agile/Scrum
+  * Bitbucket
+  * Gitlab
+  * Github
+  * SVN
+  * Git
+
+## Database 
+  * Redis
+  * FILE
+  * MYSQL 
+  * POSTGRESQL  
+  * SQL SERVER
+  * Oracle 
 
 ## Programming Language
   * Java programing 
@@ -39,11 +54,26 @@ Teuk Laak I, Khan Toul Kok, Phnom Penh
   * CSS
   * JavaScript
 
+## Framework SKILLS
+  * Laravel Framework
+  * Codeiniter Framework
+  * Spring Framework
+  * NodeJS 
+
 ## MOBILE SDK SKILLS
   * Android
   * IOS
   * Flutter
   * React Native
+
+## API 
+  * Rest Full API
+  * GraphQL API
+
+## Project Build Tool
+  * Maven
+  * Gradle
+  * Node
   
 ## Header 2
 
