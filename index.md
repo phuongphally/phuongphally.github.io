@@ -27,7 +27,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # EDUCATION AND TRAINING
   * 02/01/2014 graduate a bachelor of science in information technology at Asia Euro University 826, kammpuch Krum Blvd
 Teuk Laak I, Khan Toul Kok, Phnom Penh
+
   * 01/04/2014 basic and advance course of software expert training at Korea Software HRD Center, 12 St 323, Phnom Penh.
+
   * 01/02/2013 graduate short course with web design and web development IT Center phnom penh, Cambodia
 
 
