@@ -15,10 +15,30 @@ This is Mr. Phuong Phally from KAMPONG SPUE province, Cambodia. was born in 1991
 
 
 # EDUCATION AND TRAINING
-  * In 02/01/2010 to 02/01/2014 graduate a bachelor of science in information technology at Asia Euro University 826, kammpuch Krum Blvd
+  * 02/01/2014 graduate a bachelor of science in information technology at Asia Euro University 826, kammpuch Krum Blvd
 Teuk Laak I, Khan Toul Kok, Phnom Penh
-  * In 01/04/2014 basic and advance course of software expert training at Korea Software HRD Center, 12 St 323, Phnom Penh.
+  * 01/04/2014 basic and advance course of software expert training at Korea Software HRD Center, 12 St 323, Phnom Penh.
+  * 01/02/2013 graduate short course with web design and web development IT Center phnom penh, Cambodia
 
+
+# PROGRAMMING SKILLS
+  * Java programing 
+  * Kotlin 
+  * PHP Language
+  * Go Language
+  * Dart Language
+  * Swift Language
+  * Objective C
+  * JSON
+  * HTML 
+  * CSS
+  * JavaScript
+
+# MOBILE SDK SKILLS
+  * Android
+  * IOS
+  * Flutter
+  * React Native
 
 ## Header 2
 
