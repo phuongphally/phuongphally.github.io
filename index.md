@@ -14,13 +14,7 @@ layout: default
 <dt>Nationality</dt>
 <dd>Khmer</dd>
 <dt>Current Address</dt>
-<dd>
-
-```
-Maeda 2004 and St. 371, Phum Tro Pang Chhok, Sangkat Teul Thla, Khan Sen Sok, Phnom Penh, Cambodia, 12102, phnom penh, Cambodia
-```
-
-</dd>
+<dd>Maeda 2004 and St. 371, Phum Tro Pang Chhok, Sangkat Teul Thla, Khan Sen Sok, Phnom Penh, Cambodia, 12102, phnom penh, Cambodia</dd>
 </dl>
 
 
